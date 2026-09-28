@@ -17,7 +17,7 @@ This project provides employee CRUD operations, user registration and login, JWT
 - Uvicorn
 
 
-## Fetures
+## Features
 
 - User registration
 - User login
